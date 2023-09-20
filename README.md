@@ -12,7 +12,7 @@ This repository contains the content of my presentation on the Langchain framewo
   
 - Canva Presentation used during the presentation;
 
-[Canva Presentation](https://www.canva.com/design/DAFtrnpRz4Q/fj0NBD8TLUGUA88T12qQ_Q/)
+[Canva Presentation](https://www.canva.com/design/DAFtrnpRz4Q/fj0NBD8TLUGUA88T12qQ_Q/edit?utm_content=DAFtrnpRz4Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - Jupyter Notebook used during the presentation;
 
